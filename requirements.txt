@@ -1,4 +1,4 @@
-discogs_client
+discogs_api
 fleep
 eyed3
 mutagen
